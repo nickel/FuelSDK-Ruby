@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 	spec.add_development_dependency 'rake','~>0.9'
 	spec.add_development_dependency "rspec",'~> 2.0'
 	spec.add_development_dependency "guard",'~> 1.1'
-	spec.add_development_dependency "guard-rspec",'~> 2.0'
+	spec.add_development_dependency "guard-rspec",'~> 3.1'
 
 	spec.add_dependency "savon", "2.2.0"
 	spec.add_dependency "json", "~>1.8",">= 1.8.1" 
